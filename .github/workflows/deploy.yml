@@ -30,6 +30,6 @@ jobs:
           ARGS: "-rltgoDzvO"
           SOURCE: "docs/.vitepress/dist/"
           REMOTE_HOST: ${{ secrets.HOST_IP }}
-          REMOTE_USER: ${{ secrets.USER }}
+          REMOTE_USER: "root"
           TARGET: "/mnt/boat4study-introduction/" #注意这里
 
