@@ -9,13 +9,13 @@ export default {
   themeConfig: {
     socialLinks: [{ icon: "github", link: "https://github.com/FreelyCoding" }],
     nav: [
-      { text: '功能介绍', link: '/guide/what-is-boat4study', activeMatch: '/guide/what-is-boat4study' },
+      { text: '功能介绍', link: '/release/guide/what-is-boat4study', activeMatch: '/release/guide/what-is-boat4study' },
       {
         text: '版本迭代介绍',
         items: [
-          { text: 'Alpha版本迭代', link: '/release-note/alpha' },
-          { text: 'Beta版本迭代', link: '/release-note/beta' },
-          { text: 'Release Candidate版本迭代', link: '/release-note/pre-release' },
+          { text: 'Alpha版本迭代', link: '/release/release-note/alpha' },
+          { text: 'Beta版本迭代', link: '/release/release-note/beta' },
+          { text: 'Release Candidate版本迭代', link: '/release/release-note/pre-release' },
         ]
       }
     ],
@@ -27,10 +27,10 @@ export default {
         {
           text: '介绍',
           items: [
-            { text: '什么是学舟', link: '/guide/what-is-boat4study' },
-            { text: '快速开始', link: '/guide/getting-started' },
-            { text: '配置', link: '/guide/configuration' },
-            { text: '发布', link: '/guide/deploying' }
+            { text: '什么是学舟', link: '/release/guide/what-is-boat4study' },
+            { text: '快速开始', link: '/release/guide/getting-started' },
+            { text: '配置', link: '/release/guide/configuration' },
+            { text: '发布', link: '/release/guide/deploying' }
           ],
           collapsible: true
         }
@@ -39,9 +39,9 @@ export default {
         {
           text: '发布说明',
           items: [
-            { text: 'Alpha版本迭代', link: '/release-note/alpha' },
-            { text: 'Beta版本迭代', link: '/release-note/beta' },
-            { text: 'Release Candidate版本迭代', link: '/release-note/pre-release' },
+            { text: 'Alpha版本迭代', link: '/release/release-note/alpha' },
+            { text: 'Beta版本迭代', link: '/release/release-note/beta' },
+            { text: 'Release Candidate版本迭代', link: '/release/release-note/pre-release' },
           ],
           collapsible: true
         }

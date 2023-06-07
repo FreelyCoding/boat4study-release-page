@@ -6,7 +6,7 @@ hero:
   text: Boat for Study
   tagline: 你说得对，但是学舟是一款由无编无计组开发的开放世界刷题软件
   image:
-    src: /public/logo.png
+    src: /release/public/logo.png
     alt: 网站的 logo 图片
   actions:
     - theme: brand
@@ -17,7 +17,7 @@ hero:
       link: https://github.com/FreelyCoding
     - theme: alt
       text: 功能介绍
-      link: /guide/getting-started
+      link: /release/guide/getting-started
 features:
   - icon: ⚡️
     title: 做题
