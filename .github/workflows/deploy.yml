@@ -9,6 +9,12 @@ jobs:
       # check out the repository
       - name: Checkout    
         uses: actions/checkout@v2    #这里使用了github官方提供的action,checkout项目到虚拟机上
+        
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          registry-url: 'https://registry.npmjs.org'
 
       - name: Install Dependencies
         run: npm install
