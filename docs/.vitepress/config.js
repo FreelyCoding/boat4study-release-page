@@ -31,7 +31,8 @@ export default {
             { text: '快速开始', link: '/guide/getting-started' },
             { text: '配置', link: '/guide/configuration' },
             { text: '发布', link: '/guide/deploying' },
-            { text: '题库&做题', link: '/guide/problem_relate_intro' }
+            { text: '题库&做题', link: '/guide/problem_relate_intro' },
+            { text: '学习小组', link: '/guide/group_relate_intro' }
           ],
           collapsible: true
         }
