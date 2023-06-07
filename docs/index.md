@@ -21,7 +21,7 @@ hero:
 features:
   - icon: ⚡️
     title: 做题
-    details: 这里是功能区 1 详情信息
+    details: 集合了单体录入、批量录入、题库迁移、OCR识别等题目导入功能的题库，可以使用顺序练习、题型练习、错题练习等多种方式针对题库中的题目进行练习
   - icon: 🖖
     title: 笔记
     details: 这里是功能区 2 详情信息
