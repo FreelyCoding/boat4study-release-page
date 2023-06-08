@@ -28,4 +28,12 @@
 
 此外，学舟微信小程序客户端已经开启限量内测，加入上述微信群即有机会获得小程序内测资格，先到先得！
 
-如果二维码失效或过期，也欢迎通过邮箱联系我们：[学舟官方](boat4study_test@163.com), [FlyingLaird](chenjunyi.horse@outlook.com), [Longxmas](1185267696@qq.com), [Praynext](2068525908@qq.com), [LalicGhost](2088390332@qq.com)
+如果二维码失效或过期，也欢迎通过邮箱联系我们：
+
+| Name | E-mail |
+| ------ | ----------- |
+| 学舟官方   | boat4study_test@163.com |
+| FlyingLaird | chenjunyi.horse@outlook.com |
+| Longxmas    | 1185267696@qq.com |
+| Praynext    | 2068525908@qq.com |
+| LalicGhost    | 2088390332@qq.com |
