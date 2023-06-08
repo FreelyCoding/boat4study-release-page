@@ -33,6 +33,7 @@
 | Name | E-mail |
 | ------ | ----------- |
 | 学舟官方   | boat4study_test@163.com |
+| scongl   | 3304252064@qq.com |
 | FlyingLaird | chenjunyi.horse@outlook.com |
 | Longxmas    | 1185267696@qq.com |
 | Praynext    | 2068525908@qq.com |
