@@ -25,3 +25,23 @@
 * 微信小程序端：软件需要能够在iOS、Android、Windows、MAC等平台上的微信客户端中运行，支持不同的设备及分辨率，前端代码托管于小程序平台。
 
 * web端：软件需要能够在Chrome、FireFox、Safari、Edge等主流的浏览器中运行，支持不同的操作系统和分辨率，前端代码部署在2核4G的服务器中，后端代码部署在华为云服务器。
+
+* 具体而言，前端服务器配置如下：
+
+  ```
+  OS:Ubuntu 22.04 x64 vCPU/s:2 vCPUs
+  RAM:4096.00 MB
+  Storage:100 GB NVMe
+  ```
+
+  后端服务器配置如下：
+
+  ```
+  OS:Ubuntu 22.04 x64 vCPU/s:2 vCPUs
+  RAM:4096.00 MB
+  Storage:40 GB NVMe
+  ```
+
+  
+
+  
