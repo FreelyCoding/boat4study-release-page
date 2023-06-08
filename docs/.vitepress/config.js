@@ -5,10 +5,18 @@ export default {
   // site-level options
   title: '学舟',
   description: 'Boat for Study',
+  
+  head: [
+    [
+      "script",
+      { src: '/Valine.min.js'},
+    ],
+  ],
 
   themeConfig: {
     socialLinks: [{ icon: "github", link: "https://github.com/FreelyCoding" }],
     nav: [
+      { text: 'Bug反馈与讨论', link: '/report/report', activeMatch: '/report/report' },
       { text: '功能介绍', link: '/guide/what-is-boat4study', activeMatch: '/guide/what-is-boat4study' },
       {
         text: '版本迭代介绍',
