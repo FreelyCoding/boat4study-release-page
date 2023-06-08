@@ -28,9 +28,7 @@ export default {
           text: '介绍',
           items: [
             { text: '什么是学舟', link: '/guide/what-is-boat4study' },
-            { text: '快速开始', link: '/guide/getting-started' },
-            { text: '配置', link: '/guide/configuration' },
-            { text: '发布', link: '/guide/deploying' },
+            { text: '快速上手', link: '/guide/getting-started' },
             { text: '题库&做题', link: '/guide/problem_relate_intro' },
             { text: '学习小组', link: '/guide/group_relate_intro' },
             { text: '笔记', link: '/guide/note_relate_intro' },
