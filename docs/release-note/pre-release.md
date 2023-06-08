@@ -29,7 +29,9 @@
 * 前端服务器配置如下：
 
   ```
-  OS:Ubuntu 22.04 x64 vCPU/s:2 vCPUs
+  Vultr VPS
+  OS:Ubuntu 22.04 x64
+  vCPU/s:2 vCPUs
   RAM:4096.00 MB
   Storage:100 GB NVMe
   ```
@@ -37,7 +39,9 @@
   后端服务器配置如下：
 
   ```
-  OS:Ubuntu 22.04 x64 vCPU/s:2 vCPUs
+  Huawei HECS Server
+  OS:Ubuntu 22.04 x64
+  vCPU/s:2 vCPUs
   RAM:4096.00 MB
   Storage:40 GB NVMe
   ```
